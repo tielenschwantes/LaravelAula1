@@ -22,3 +22,10 @@ Route::get('/olapessoa/{name}', function($name='Estranho'){
 Route::get('/', function () {
     return view('welcome');
 });
+
+//oimundo
+//hffgh
+//fhfghg
+//fhfghfgh fhfghfg fgh fghf 
+
+
