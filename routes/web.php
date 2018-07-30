@@ -23,6 +23,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('pm2/{palavra}', 'StringsController@pm');
+
+
 //oimundo
 //hffgh
 //fhfghg
